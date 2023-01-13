@@ -15,7 +15,7 @@ for (const toy of toys) {
 
     console.log(HighSellCount)
 
-    if( HighSellCount){
+    if(HighSellCount){
         popularToys.push(toy)
     } 
     
